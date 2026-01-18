@@ -11,8 +11,13 @@ The website displays products dynamically based on seasonal categories such as *
 ---
 
 ## 📸 Screenshots / Demo
-
+<img width="1920" height="874" alt="home" src="https://github.com/user-attachments/assets/92e0bd04-550e-46a1-8cd8-02371882ab0c" />
+<img width="1920" height="823" alt="season" src="https://github.com/user-attachments/assets/4a06968c-96e9-470b-a81f-d92f4ae7b19b" />
 <img width="1920" height="834" alt="cart" src="https://github.com/user-attachments/assets/7bfa67fb-3642-41b2-94f4-0ba06d7cae70" />
+<img width="1920" height="807" alt="login" src="https://github.com/user-attachments/assets/70d68e81-031d-476c-a959-1221d28a49af" />
+<img width="1920" height="816" alt="checkout" src="https://github.com/user-attachments/assets/dbde92f4-4588-4d1b-917c-62240becc4a2" />
+
+
 
  
 
